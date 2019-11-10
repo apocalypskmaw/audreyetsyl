@@ -1,0 +1,32 @@
+{
+    "alias": [
+        "www.chloe-et-gael.love", "chloe-et-gael.love"
+    ],
+    "version": 2,
+    "builds": [
+        {
+            "src": "*.html",
+            "use": "@now/static"
+        },
+        {
+            "src": "*.woff",
+            "use": "@now/static"
+        },
+        {
+            "src": "*.css",
+            "use": "@now/static"
+        },
+        {
+            "src": "imgs/*.jpg",
+            "use": "@now/static"
+        },
+        {
+            "src": "imgs/*.png",
+            "use": "@now/static"
+        },
+        {
+            "src": "imgs/*.svg",
+            "use": "@now/static"
+        }
+    ]
+}
