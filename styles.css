@@ -33,7 +33,6 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color:  #d5b78b ;
     background-image: url(''),url(''), url('imgs/light.jpg');
     background-position: bottom left,top right, center;
     background-size:  auto 44.444%, auto 44.444%, cover;
