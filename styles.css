@@ -26,7 +26,7 @@ body {
 
 
 header {
-    padding: 2rem;  
+    padding: 2rem;
     min-height: fit-content;
     height: 85vh;
     text-align: center;
@@ -40,8 +40,6 @@ header {
     overflow: hidden;
     position: relative;
 }
-
-
 
 .header-small {
     display: flex;
@@ -325,4 +323,20 @@ header .title small {
 .text-page {
     margin-bottom: 2.3em;
     line-height: 1.6;
+}
+
+footer {
+    padding: 2rem;
+    min-height: fit-content;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    color: #c9c9c9;
+    background-color: black;
+    align-content: space-between;
+    justify-content: flex-start;
+    height: 70px;
+    padding: 0.6rem 1.5rem;
 }
