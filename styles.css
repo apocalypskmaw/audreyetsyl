@@ -1,8 +1,7 @@
 @font-face {
-    font-family: 'GreatVibes';
+    font-family: 'Alex Brush', cursive;
     font-style: normal;
     font-weight: normal;
-    src: local('GreatVibes'), url('GreatVibes-Regular.woff') format('woff');
 }
 
 * {
@@ -78,7 +77,7 @@ header {
 header .title {
     font-weight: normal;
     font-size: 80px;
-    font-family: 'GreatVibes', sans-serif;
+    font-family: 'Alex Brush', cursive;
     line-height: 0.68;
     transform: rotate(-18deg);
 }
@@ -150,7 +149,7 @@ header .title small {
     max-width: 100%;
     text-align: center;
     margin-bottom: 50px;
-    font-family: 'GreatVibes', sans-serif;
+    font-family: 'Alex Brush', cursive;
     background: no-repeat center top url('imgs/divider.png');
     background-size: 25% auto;
 }
@@ -175,8 +174,7 @@ header .title small {
 }
 
 .description {
-    text-transform: uppercase;
-    font-size: 1rem;
+    font-size: 1.2rem;
     letter-spacing: 0.1em;
     line-height: 1.7;
     text-align: center;
@@ -300,7 +298,7 @@ header .title small {
 
 
 .text-page h1 {
-    font-family: 'GreatVibes', sans-serif;
+    font-family: 'Alex Brush', cursive;
     margin-left: auto;
     margin-right: auto;
 }
