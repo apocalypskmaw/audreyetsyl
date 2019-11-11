@@ -324,7 +324,6 @@ header .title small {
 }
 
 footer {
-    padding: 2rem;
     min-height: fit-content;
     text-align: center;
     display: flex;
@@ -335,6 +334,5 @@ footer {
     background-color: black;
     align-content: space-between;
     justify-content: flex-start;
-    height: 70px;
-    padding: 0.6rem 1.5rem;
+    padding: 0.6rem 0.5rem;
 }
