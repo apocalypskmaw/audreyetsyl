@@ -93,9 +93,8 @@ header .title {
 }
 
 header .subtitle {
-    font-size: 40px;
+    text-transform: uppercase;
     font-weight: 100;
-    font-family: 'Alex Brush', cursive;
     text-align: center;
     margin-top: 15px;
     margin-right: 0px;
